@@ -1,5 +1,5 @@
-
-
+# Python Portfolio
+A collection of Python projects demonstrating practical data skills: cleaning messy data, web scraping, and data analysis.
 ## Projects
 
 ### 1. Data Cleaner & Analyzer
